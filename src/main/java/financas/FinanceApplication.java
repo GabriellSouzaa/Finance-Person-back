@@ -1,12 +1,12 @@
-package pizzaria.pizz;
+package financas;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PizzApplication {
+public class FinanceApplication {
 	public static void main(String[] args) {
-		SpringApplication.run(PizzApplication.class, args);
+		SpringApplication.run(FinanceApplication.class, args);
 	}
 
 }
